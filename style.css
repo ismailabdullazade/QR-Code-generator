@@ -1,0 +1,10 @@
+.qr-code {
+    max-width: 200px;
+    margin: 10px;
+  }
+  .container_fluid{
+    text-align: center;
+  }
+  button{
+    margin-top: 19px;
+  }
